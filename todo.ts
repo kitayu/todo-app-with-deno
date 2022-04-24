@@ -1,0 +1,7 @@
+export interface Todo {
+	id?: string;
+	name?: string;
+	status?: string;
+	createAt?: string;
+	updateAt?: string; 
+}
